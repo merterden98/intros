@@ -22,4 +22,5 @@ This exercise should serve the purpose of getting you to have _some_ experience 
 | **Name** | **Github Username** | **# Times had to resolve merge conflict** |
 |----------|---------------------|-------------------------------------------|
 | Mert     | merterden98         | 0                                         |
+| Jian     | jianhui-chen        | 0                                         |
 | Artem    | artemislong         | 0                                         |
