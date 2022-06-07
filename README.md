@@ -27,4 +27,5 @@ This exercise should serve the purpose of getting you to have _some_ experience 
 | Charlotte| chrlatte		     | 0	         		 	                 |
 | Jian     | jianhui-chen        | 0                                         |
 | Artem    | artemislong         | 0                                         |
-| Micah    | MicahRP             | 1                                         |
+| Milan    | thettyl             | 0                                         |
+| Micah    | MicahRP             | 2                                         |
