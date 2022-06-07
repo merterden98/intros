@@ -22,9 +22,4 @@ This exercise should serve the purpose of getting you to have _some_ experience 
 | **Name** | **Github Username** | **# Times had to resolve merge conflict** |
 |----------|---------------------|-------------------------------------------|
 | Mert     | merterden98         | 0                                         |
-| Lillian  | lillianfok          | 2                                         |
-| Dan      | Daniel-Tolessa      | 0                                         |
-| Charlotte| chrlatte		     | 0	         		 	                 |
-| Jian     | jianhui-chen        | 0                                         |
-| Artem    | artemislong         | 0                                         |
-| Micah    | MicahRP             | 1                                         |
+| Amy      | atownend5           | 0                                         |
