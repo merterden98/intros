@@ -28,4 +28,4 @@ This exercise should serve the purpose of getting you to have _some_ experience 
 | Jian     | jianhui-chen        | 0                                         |
 | Artem    | artemislong         | 0                                         |
 | Milan    | thettyl             | 0                                         |
-
+| Klara    | clarech712          | 0                                         |
