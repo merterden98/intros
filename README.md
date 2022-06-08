@@ -29,3 +29,4 @@ This exercise should serve the purpose of getting you to have _some_ experience 
 | Artem    | artemislong         | 0                                         |
 | Milan    | thettyl             | 0                                         |
 | Micah    | MicahRP             | 2                                         |
+| Klara    | clarech712          | 0                                         |
