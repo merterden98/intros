@@ -30,3 +30,4 @@ This exercise should serve the purpose of getting you to have _some_ experience 
 | Milan    | thettyl             | 0                                         |
 | Micah    | MicahRP             | 2                                         |
 | Klara    | clarech712          | 0                                         |
+| Selena   | xinyihu3721         | 1                                         |
