@@ -24,8 +24,11 @@ This exercise should serve the purpose of getting you to have _some_ experience 
 | Mert     | merterden98         | 0                                         |
 | Lillian  | lillianfok          | 2                                         |
 | Dan      | Daniel-Tolessa      | 0                                         |
-| Charlotte| chrlatte		         | 0					                               |	
+| Charlotte| chrlatte		     | 0	         		 	                 |
 | Jian     | jianhui-chen        | 0                                         |
 | Artem    | artemislong         | 0                                         |
 | Milan    | thettyl             | 0                                         |
-| Amy      | atownend5           | 5                                         |
+| Micah    | MicahRP             | 2                                         |
+| Klara    | clarech712          | 0                                         |
+| Selena   | xinyihu3721         | 1                                         |
+| Amy      | atownend5           | 3                                         |
