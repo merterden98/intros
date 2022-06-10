@@ -31,3 +31,4 @@ This exercise should serve the purpose of getting you to have _some_ experience 
 | Micah    | MicahRP             | 2                                         |
 | Klara    | clarech712          | 0                                         |
 | Selena   | xinyihu3721         | 1                                         |
+| Amy      | atownend5           | 3                                         |
